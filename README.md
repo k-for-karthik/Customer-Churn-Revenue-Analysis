@@ -1,7 +1,10 @@
-# Customer Churn And Revenue Analysis
+# 🚀 Customer Churn & Revenue Analysis – ClassPass
 
-## 🚀 Customer Churn & Revenue Analysis – ClassPass
+[Click here to view the SQL Queries used in this project](https://github.com/k-for-karthik/Customer-Churn-Revenue-Analysis/blob/b73c135445bcd1ca0aebda7df673b4b2ac14ea15/Project%201%20-%20classpass%20churn%20analysis.sql)
 
+[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTliMmZjOTYtOGM5My00NjczLThjMTUtZDgwNWYzODkyZjdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+🔗 **Interactive Dashboard**: 
 ### 🧠 Business Problem
 ClassPass, a fitness subscription platform, faced high customer churn impacting recurring revenue and long-term growth. The business lacked clarity on which subscription plans had the highest churn, how much revenue was lost, and how customer retention affected Customer Lifetime Value (CLV).
 
@@ -27,8 +30,3 @@ ClassPass, a fitness subscription platform, faced high customer churn impacting 
 - Informed leadership's **retention campaigns** for Premium and Enterprise users.
 - Supported **seasonal marketing strategies** to boost revenue during low-performing months.
 - Enabled data-backed decisions via a Power BI dashboard, leading to a **projected 12% reduction in churn**.
-
-[Click here to view the SQL Queries used in this project](https://github.com/k-for-karthik/Customer-Churn-Revenue-Analysis/blob/b73c135445bcd1ca0aebda7df673b4b2ac14ea15/Project%201%20-%20classpass%20churn%20analysis.sql)
-
-🔗 **Interactive Dashboard**: 
-[View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTliMmZjOTYtOGM5My00NjczLThjMTUtZDgwNWYzODkyZjdkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
